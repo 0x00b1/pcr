@@ -1,0 +1,17 @@
+{
+  "name": "pcr",
+  "displayName": "pcr",
+  "expo": {
+    "name": "pcr",
+    "slug": "pcr",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
